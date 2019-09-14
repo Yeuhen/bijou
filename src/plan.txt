@@ -1,0 +1,10 @@
+1. sidebar
+
+2. search (input+button)
+2.1 search form
+2.2 search tabs
+
+3. main
+
+4. prodCard
+
