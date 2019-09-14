@@ -4,8 +4,28 @@ import React from 'react';
 
 function App() {
   return (
-   <> Hello from app </>
+<header>
+    <div className='wrapper'>
+      <div className="container">
+        <aside>
+          <ul>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+          </ul>
+        </aside>
+        <a href="">zzz</a>
+        
+      </div>
+    </div>
+</header>
+<main>
+  
+</main>
   );
 }
 
+<main>
+  
+</main>
 export default App;
